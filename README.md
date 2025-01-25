@@ -11,7 +11,7 @@ Go implementation for client to interact with storage nodes in 0G Storage networ
 
 Following packages can help applications to integrate with 0g storage network:
 
-- **[core](core)**: provides underlying utilities to build merkle tree for files or iteratable data, and defines data padding standard to interact with [Flow contract](contract/contract.go).
+- **[core](core)**: provides underlying utilities to build merkle tree for files or iterable data, and defines data padding standard to interact with [Flow contract](contract/contract.go).
 - **[node](node)**: defines RPC client structures to facilitate RPC interactions with 0g storage nodes and 0g key-value (KV) nodes.
 - **[kv](kv)**: defines structures to interact with 0g storage kv.
 - **[transfer](transfer)** : defines data structures and functions for transferring data between local and 0g storage.
