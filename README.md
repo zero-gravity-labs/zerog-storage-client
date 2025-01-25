@@ -4,8 +4,8 @@ Go implementation for client to interact with storage nodes in 0G Storage networ
 
 [![API Reference](https://pkg.go.dev/badge/github.com/0glabs/0g-storage-client)](https://pkg.go.dev/github.com/0glabs/0g-storage-client)
 [![Go Report Card](https://goreportcard.com/badge/github.com/0glabs/0g-storage-client)](https://goreportcard.com/report/github.com/0glabs/0g-storage-client)
-![Github Action Workflow](https://github.com/0glabs/0g-storage-client/actions/workflows/go.yml/badge.svg)
-![Github Action Workflow](https://github.com/0glabs/0g-storage-client/actions/workflows/tests.yml/badge.svg)
+[![Github Action Workflow](https://github.com/0glabs/0g-storage-client/actions/workflows/go.yml/badge.svg)](https://github.com/0glabs/0g-storage-client/actions/workflows/go.yml)
+[![Github Action Workflow](https://github.com/0glabs/0g-storage-client/actions/workflows/tests.yml/badge.svg)](https://github.com/0glabs/0g-storage-client/actions/workflows/tests.yml)
 
 ## SDK
 
